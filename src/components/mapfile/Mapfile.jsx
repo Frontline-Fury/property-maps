@@ -89,8 +89,8 @@ const properties = [
   {
     id: 4,
     name: "DLF The Arbour",
-    lat: 28.2553,
-    lng: 77.0822,
+    lat: 28.3971649,
+    lng: 77.0819181,
     details: "Ultra Luxury Apartments | 4000+ sqft",
     img: dlf,
     price: "₹30K-35K PSF",
